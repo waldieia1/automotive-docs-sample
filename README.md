@@ -39,4 +39,7 @@ The display shows the top-down view on the left side of the screen and the chose
 | **Trailer view**  | Provides a view of the trailer behind your vehicle.  |
 
 ## Using Additional Views
+Your vehicle may be equipped with specialty camera views. 
+
+### Turn Signal Views 
 
