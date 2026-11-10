@@ -20,6 +20,7 @@ You can also access the camera system using the menu on the touchscreen:
 1. Press the Settings button at the bottom of the touchscreen.
 2. Press Driver Assistance.
 3. Press Surround View Camera System.
+4. Switch Surround View Camera System on or off. 
 
 The display shows the top-down view on the left side of the screen and the chosen camera view on the right side of the screen.
 ## Switching Between Camera Views
@@ -38,5 +39,19 @@ The display shows the top-down view on the left side of the screen and the chose
 | **Hitch view** | Provides a close-up view of the area around your tow hitch. |
 | **Trailer view**  | Provides a view of the trailer behind your vehicle.  |
 
-## Using Additional Views
+## Additional Views
+Your vehicle may be equipped with specialty camera views.
+
+Use the menu on the touchscreen to switch additional views on and off: 
+1. Press the Settings button at the bottom of the touchscreen.
+2. Press Driver Assistance.
+3. Press Surround View Camera System.
+4. Switch the chosen view on or off. 
+
+### Turn Signal Views 
+When you use your turn signal, the corresponding camera view appears on the touchscreen to aid you when checking your blind spot. The view disappears after you complete the turn or when you place the stalk back in its original position. 
+
+### Top-Down Truck Bed Views 
+This view provides a top-down view of your truck bed to ensure any cargo or tools are secure when driving or while in park.  
+
 
