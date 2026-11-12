@@ -61,7 +61,13 @@ Use the menu on the touchscreen to switch additional views on and off:
 When you use your turn signal, the corresponding camera view appears on the touchscreen to aid you when checking your blind spot. The view disappears after you complete the turn or when you place the stalk back in its original position. 
 
 ### Top-Down Truck Bed Views 
-This view provides a top-down view of your truck bed to ensure any cargo or tools are secure when driving or while in park.  
+This view provides a top-down view of your truck bed to ensure any cargo or tools are secure when driving or while in park. 
+
+# Surround View Camera Limitations
+
+The surround view camera system has the following limitations: 
+- The top-down view is a combination of several camera views stitched together. The image may appear warped or distorted at the points where these views are combined. 
+- Dirty or blocked lenses can obstruct the camera view. Clean all camera lenses of debris, dirt, mud, or inclement weather to ensure an unobstructed view. 
 
 
 
