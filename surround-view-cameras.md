@@ -45,6 +45,9 @@ The display shows the top-down view on the left side of the screen and the chose
 | **Hitch view** | Provides a close-up view of the area around your tow hitch. |
 | **Trailer view**  | Provides a view of the trailer behind your vehicle.  |
 
+>[!NOTE]
+> Rear view and hitch view are available at all speeds in reverse (R), drive (D), and neutral (N).
+
 ## Additional Views
 Your vehicle may be equipped with specialty camera views.
 
