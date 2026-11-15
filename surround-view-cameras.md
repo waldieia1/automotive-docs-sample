@@ -44,7 +44,7 @@ The display shows the top-down view on the left side of the screen and the chose
 | ----------- | ----------- |
 | **Front view** | Provides a view of the area directly in front of your vehicle. |
 | **Front wide view** | Provides a widened 180 degree view of the area in front of your vehicle. |
-| **Rear View**  | Provides a view of the area directly behind your vehicle.  |
+| **Rear view**  | Provides a view of the area directly behind your vehicle.  |
 | **Rear wide view** | Provides a widened, 180 degree view of the area behind your vehicle. |
 | **Hitch view** | Provides a close-up view of the area around your tow hitch. |
 | **Trailer view**  | Provides a view of the trailer behind your vehicle.  |
