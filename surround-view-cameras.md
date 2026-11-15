@@ -10,6 +10,10 @@ The surround view camera system uses front, side, and rear cameras to create a t
 >[!WARNING]
 >The surround view camera system is meant to be a visual aid. Do not use the cameras as a replacement for checking your surroundings and driving with due care and attention. Failure to follow this instruction could result in property damage, personal injury, or death.
 
+>[!WARNING]
+>Use caution when adjusting vehicle settings while the vehicle is not in park (P). Failure to follow this instruction could result in property damage, personal injury, or death.
+
+
 # Using the Surround View Camera System
 <img align="left" src="https://img.icons8.com/?size=100&id=VyMvT1KlnPw6&format=png&color=000000" alt="Surround View Camera Button" width="50">
 
@@ -67,7 +71,9 @@ This view provides a top-down view of your truck bed to ensure any cargo or tool
 
 The surround view camera system has the following limitations: 
 - The top-down view is a combination of several camera views stitched together. The image may appear warped or distorted at the points where these views are combined. 
-- Dirty or blocked lenses can obstruct the camera view. Clean all camera lenses of debris, dirt, mud, or inclement weather to ensure an unobstructed view. 
+- Dirty or blocked lenses can obstruct the camera view. Clean all camera lenses of debris, dirt, mud, or inclement weather to ensure an unobstructed view.
+- The system is meant for flat surfaces. Using the cameras on steep inclines, curbs, speed bumps, or uneven terrain can make obstacles look closer or farther than they are in reality.
+- Bright glare at dawn or dusk can wash out the camera view. Sudden lighting transitions like entering or exiting a dark tunnel can wash out or darken the camera view. 
 
 
 
