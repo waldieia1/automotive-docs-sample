@@ -1,5 +1,14 @@
 # Surround View Cameras Overview
 The surround view camera system uses front, side, and rear cameras to create a top-down view of your vehicle on the touchscreen. This view helps you maneuver your vehicle in situations like parking or moving out of a tight space. 
+
+## Precautions 
+
+>[!WARNING]
+>The surround view camera system is meant to be a visual aid. Do not use the cameras as a replacement for checking your surroundings and driving with due care and attention. Failure to follow this instruction could result in property damage, personal injury, or death.
+
+>[!WARNING]
+>Use caution when adjusting vehicle settings while the vehicle is not in park (P). Failure to follow this instruction could result in property damage, personal injury, or death.
+
 ## Camera Locations
 | Camera type | Location |
 | ----------- | ----------- |
@@ -7,11 +16,6 @@ The surround view camera system uses front, side, and rear cameras to create a t
 | Side cameras | Side view mirrors |
 | Rear camera  | Rear bumper  |
 
->[!WARNING]
->The surround view camera system is meant to be a visual aid. Do not use the cameras as a replacement for checking your surroundings and driving with due care and attention. Failure to follow this instruction could result in property damage, personal injury, or death.
-
->[!WARNING]
->Use caution when adjusting vehicle settings while the vehicle is not in park (P). Failure to follow this instruction could result in property damage, personal injury, or death.
 
 
 # Using the Surround View Camera System
