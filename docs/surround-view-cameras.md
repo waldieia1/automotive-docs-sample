@@ -57,6 +57,7 @@ The display shows the top-down view on the left side of the screen and the chose
 Your vehicle may be equipped with specialty camera views.
 
 Use the menu on the touchscreen to switch additional views on and off: 
+
 1. Press the Settings button at the bottom of the touchscreen.
 2. Press Driver Assistance.
 3. Press Surround View Camera System.
