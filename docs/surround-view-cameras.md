@@ -21,6 +21,7 @@ The surround view camera system uses front, side, and rear cameras to create a t
 <br>
 
 You can also access the camera system using the menu on the touchscreen: 
+
 1. Press the Settings button at the bottom of the touchscreen.
 2. Press Driver Assistance.
 3. Press Surround View Camera System.
@@ -70,6 +71,7 @@ This view provides a top-down view of your truck bed to ensure any cargo or tool
 # Surround View Camera Limitations
 
 The surround view camera system has the following limitations: 
+
 - The top-down view is a combination of several camera views stitched together. The image may appear warped or distorted at the points where these views are combined. 
 - Dirty or blocked lenses can obstruct the camera view. Clean all camera lenses of debris, dirt, mud, or inclement weather to ensure an unobstructed view.
 - The system is meant for flat surfaces. Using the cameras on steep inclines, curbs, speed bumps, or uneven terrain can make obstacles look closer or farther than they are in reality.
