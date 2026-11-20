@@ -22,9 +22,8 @@ The surround view camera system uses front, side, and rear cameras to create a t
 
 ## Accessing the Surround View Camera
 <img align="left" src="https://img.icons8.com/?size=100&id=VyMvT1KlnPw6&format=png&color=000000" alt="Surround View Camera Button" width="50">
-
 <p>Press the camera button on the touchscreen to access the camera display screen. </p>
-<br>
+
 
 You can also access the camera system using the menu on the touchscreen: 
 
@@ -42,9 +41,10 @@ You can also access the camera system using the menu on the touchscreen:
 The display shows the top-down view on the left side of the screen and the chosen camera view on the right side of the screen.
 ## Switching Between Camera Views
 <img align="left" width="50" alt="image" src="https://github.com/user-attachments/assets/8eaa1960-a50c-4ccf-908e-1037005c0a94" />
-
 <p>Press the drop-down button on the top of the touchscreen. </p>
-<br>
+
+<div style="clear: both;"></div>
+
 <p>You can switch between the following views: </p>
 
 | Camera view | What it does |
