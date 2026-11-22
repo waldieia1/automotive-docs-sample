@@ -18,7 +18,7 @@ The surround view camera system uses front, side, and rear cameras to create a t
 
 
 
-# Using the Surround View Camera System
+# Using the Surround View Camera
 
 ## Accessing the Surround View Camera
 
