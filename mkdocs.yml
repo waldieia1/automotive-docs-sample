@@ -2,7 +2,7 @@ site_name: Driver Assistance Systems
 
 nav: 
 - Home: index.md
-- Surround View Cameras: surround-view-cameras.md
+- Surround View Camera: surround-view-cameras.md
 
 markdown_extensions: 
 - admonition
