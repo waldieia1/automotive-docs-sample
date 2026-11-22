@@ -21,9 +21,11 @@ The surround view camera system uses front, side, and rear cameras to create a t
 # Using the Surround View Camera System
 
 ## Accessing the Surround View Camera
-<img align="left" src="https://img.icons8.com/?size=100&id=VyMvT1KlnPw6&format=png&color=000000" alt="Surround View Camera Button" width="50">
-<p>Press the camera button on the touchscreen to access the camera display screen. </p>
 
+<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 1rem;">
+  <img src="https://img.icons8.com/?size=100&id=VyMvT1KlnPw6&format=png&color=000000" alt="Camera icon" width="50" height="50" style="display: block; width: 50px; height: 50px; margin: 0; flex-shrink: 0;">
+  <span>Press the camera button on the touchscreen to access the camera display screen.</span>
+</div>
 
 You can also access the camera system using the menu on the touchscreen: 
 
