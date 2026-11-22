@@ -1,4 +1,4 @@
-# Surround View Cameras Overview
+# Surround View Camera Overview
 The surround view camera system uses front, side, and rear cameras to create a top-down view of your vehicle on the touchscreen. This view helps you maneuver your vehicle in situations like parking or moving out of a tight space. 
 
 ## Precautions 
@@ -42,8 +42,11 @@ You can also access the camera system using the menu on the touchscreen:
 
 The display shows the top-down view on the left side of the screen and the chosen camera view on the right side of the screen.
 ## Switching Between Camera Views
-<img align="left" width="50" alt="image" src="https://github.com/user-attachments/assets/8eaa1960-a50c-4ccf-908e-1037005c0a94" />
-<p>Press the drop-down button on the top of the touchscreen. </p>
+
+<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 1rem;">
+  <img src="https://github.com/user-attachments/assets/8eaa1960-a50c-4ccf-908e-1037005c0a94" alt="Camera icon" width="50" height="50" style="display: block; width: 50px; height: 50px; margin: 0; flex-shrink: 0;">
+  <span>Press the drop-down button on the top of the touchscreen.</span>
+</div>
 
 <div style="clear: both;"></div>
 
