@@ -34,11 +34,9 @@ You can also access the camera system using the menu on the touchscreen:
 3. Press Surround View Camera System.
 4. Switch Surround View Camera System on or off.
 
-<br>
+
 
 <img width="550" height="396" alt="Githubproject" src="https://github.com/user-attachments/assets/163c0c16-b8c9-4ee0-a985-9378e0446af8" />
-
-
 
 The display shows the top-down view on the left side of the screen and the chosen camera view on the right side of the screen.
 ## Switching Between Camera Views
